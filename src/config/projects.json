@@ -1,0 +1,21 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi cumque quia quae eligendi tempora eum doloremque iste, adipisci, deserunt et commodi laboriosam minima sint fugiat eaque voluptates! Reprehenderit necessitatibus, sapiente quam facere tenetur non doloremque fugit animi eos. Magni, ex.",
+            "image": "images/undraw_bitcoin.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi cumque quia quae eligendi tempora eum doloremque iste, adipisci, deserunt et commodi laboriosam minima sint fugiat eaque voluptates! Reprehenderit necessitatibus, sapiente quam facere tenetur non doloremque fugit animi eos. Magni, ex.",
+            "image": "images/undraw_bitcoin.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi cumque quia quae eligendi tempora eum doloremque iste, adipisci, deserunt et commodi laboriosam minima sint fugiat eaque voluptates! Reprehenderit necessitatibus, sapiente quam facere tenetur non doloremque fugit animi eos. Magni, ex.",
+            "image": "images/undraw_bitcoin.svg"
+        }
+    ]
+    
+    
+}
